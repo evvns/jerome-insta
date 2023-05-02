@@ -9,7 +9,8 @@
  
 // Making the internet safer for homosexual black men since 2022.
 
-// Proprietary source code by GNAA
+// Proprietary source code by GNAA. 
+// authors: ev
 const puppeteer = require('puppeteer');
 const openai = require('openai');
 
